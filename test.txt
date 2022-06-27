@@ -2,3 +2,8 @@
 it was creted by hien for Git testing - first commiting 
 it was changed by modifiy online
 conflict from local repository
+=======
+created conflic 
+>>>>>>> 85f2e59673cc8acf9c272fcc692d3099df2dcecf
+
+>> conflicting was resolved by owner
